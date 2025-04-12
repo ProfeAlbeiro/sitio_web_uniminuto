@@ -3,7 +3,7 @@
     "background_color": "#FFEEEE",
     "display": "standalone",
     "scope": "./",
-    "start_url": ".*/index.html",
+    "start_url": "./index.html",
     "name": "Ejercicio de PWA",
     "short_name": "PWA",
     "description": "Ejecicio para aprender sobre aplicaciones web progresivas",
@@ -11,14 +11,9 @@
     "orientation": "portrait",
     "icons" :[
         {
-            "src": "./img/usuario.jpg",
-            "sizes": "50x50",
-            "type": "image/jpg"
-        },
-        {
-            "src": "./img/usuario.jpg",
-            "sizes": "96x96",
-            "type": "image/jpg"
+            "src": "./img/usuario.png",
+            "sizes": "512x512",
+            "type": "image/png"
         }
     ]
 }
